@@ -3,7 +3,7 @@ Our current OpenCart Plugin can be found <a href="https://github.com/globalpayme
 
 ## SecureSubmit OpenCart 2.3.0.2 Payment Gateway
 
-This extension allows OpenCart to use the Global Payments Systems Gateway. All card data is tokenized using Global Payments SecureSubmit product.
+This extension allows OpenCart to use the Global Payments Gateway. All card data is tokenized using Global Payments SecureSubmit product.
 
 ## Installation
 This version of OpenCart introduces backwards compatibility changes 
